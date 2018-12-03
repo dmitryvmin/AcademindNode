@@ -17,37 +17,33 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-validation-sessions/routes/index.js">
+      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09-mongoDB/views/index.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="672">
+              <caret line="42" column="55" lean-forward="true" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-validation-sessions/app.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09-mongoDB/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-validation-sessions/views/layouts/layout.hbs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="524">
+              <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>db.collection is not a function</find>
+      <find>db.collection</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,6 +68,10 @@
         <option value="$PROJECT_DIR$/08-validation-sessions/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/08-validation-sessions/routes/index.js" />
         <option value="$PROJECT_DIR$/08-validation-sessions/app.js" />
+        <option value="$PROJECT_DIR$/09-mongoDB/views/index.hbs" />
+        <option value="$PROJECT_DIR$/09-mongoDB/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/09-mongoDB/bin/www" />
+        <option value="$PROJECT_DIR$/09-mongoDB/routes/index.js" />
       </list>
     </option>
   </component>
@@ -84,6 +84,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/05-express-first-app/node_modules" />
     <handled-path value="$PROJECT_DIR$/08-validation-sessions/node_modules" />
+    <handled-path value="$PROJECT_DIR$/09-mongoDB/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -132,7 +133,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08-validation-sessions" />
+              <option name="myItemId" value="09-mongoDB" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -146,7 +147,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08-validation-sessions" />
+              <option name="myItemId" value="09-mongoDB" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -164,29 +165,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08-validation-sessions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Academind - Node" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Academind - Node" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08-validation-sessions" />
+              <option name="myItemId" value="09-mongoDB" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -204,7 +183,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08-validation-sessions" />
+              <option name="myItemId" value="09-mongoDB" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -226,7 +205,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08-validation-sessions" />
+              <option name="myItemId" value="09-mongoDB" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -392,12 +371,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543714774588</updated>
-      <workItem from="1543714776267" duration="10464000" />
+      <workItem from="1543714776267" duration="13075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10464000" />
+    <option name="totallyTimeSpent" value="13075000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -537,14 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="78" column="11" lean-forward="false" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05-express-first-app/bin/www">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -644,7 +615,7 @@
     <entry file="file://$PROJECT_DIR$/08-validation-sessions/views/layouts/layout.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -657,10 +628,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-validation-sessions/routes/index.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="665">
+          <caret line="78" column="10" lean-forward="true" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -669,6 +640,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="26" column="56" lean-forward="false" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-validation-sessions/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-mongoDB/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-mongoDB/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-mongoDB/views/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="42" column="55" lean-forward="true" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-mongoDB/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-mongoDB/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
           <folding />
         </state>
       </provider>
